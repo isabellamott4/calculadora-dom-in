@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8efad;
+    color: #161616;
+}
+
+.container {
+    background-color: white;
+    width: 20%;
+    display: flex;
+    flex-direction:column;
+    gap:5px;
+    border-radius: 5%;
+    height: 300px;
+    padding: 30px;
+    justify-content: center;
+    justify-self: center;
+    margin-top: 50px;
+}
+
+.inserirnotas{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+    gap: 2px;
+
+}
